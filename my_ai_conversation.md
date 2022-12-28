@@ -10,7 +10,7 @@ OPENAI: tourists, tourism businesses, government agencies, and the local communi
 The lab should be organized by a team of experts with experience in tourism, technology, and business. This team should be comprised of experts from each of the main stakeholders mentioned above. The team should also include representatives from the local community to ensure that their input is taken into account. The team should also have access to resources and data from the local government and tourism businesses. 
 The lab should be organized in a way that allows for collaboration and the sharing of ideas. To facilitate this, the team should have regular meetings to discuss ideas and brainstorm solutions. Additionally, the team should also have access to a website or platform where they can post and share ideas.
 
-![](Captura de pantalla (125).png)
+![]( Captura de pantalla (125).png)
 
 Victor: Its methodology is based on
 
