@@ -8,7 +8,9 @@ Victor: The main stakeholders are
 
 OPENAI: tourists, tourism businesses, government agencies, and the local community. The tourists are the end users of the solutions created by the lab and they provide the data used to inform the solutions. Tourism businesses will be the beneficiaries of the solutions created, as they should be able to use the solutions to increase their revenue and create sustainable opportunities. Government agencies will be involved in the development of the solutions, as they can provide the necessary data and resources. The local community should be involved in the lab, as their input should be taken into account in the development of the solutions to ensure that the solutions are culturally appropriate. 
 The lab should be organized by a team of experts with experience in tourism, technology, and business. This team should be comprised of experts from each of the main stakeholders mentioned above. The team should also include representatives from the local community to ensure that their input is taken into account. The team should also have access to resources and data from the local government and tourism businesses. 
-The lab should be organized in a way that allows for collaboration and the sharing of ideas. To facilitate this, the team should have regular meetings to discuss ideas and brainstorm solutions. Additionally, the team should also have access to a website or platform where they can post and share ideas
+The lab should be organized in a way that allows for collaboration and the sharing of ideas. To facilitate this, the team should have regular meetings to discuss ideas and brainstorm solutions. Additionally, the team should also have access to a website or platform where they can post and share ideas.
+
+![](Captura de pantalla (125).png)
 
 Victor: Its methodology is based on
 
